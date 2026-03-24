@@ -1,5 +1,8 @@
 # Bill Bolt
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 > Lightning-fast invoicing CLI for freelancers. Generate professional PDF invoices in seconds.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
